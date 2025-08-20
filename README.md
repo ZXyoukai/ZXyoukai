@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou ZXyoukai
 
-<!--
-**ZXyoukai/ZXyoukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub! Aqui você encontra meus projetos, contribuições e experimentos em diversas áreas da programação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.
+- 🚀 Interesse em backend, automações, IA e sistemas distribuídos.
+- 🎓 Sempre buscando aprender novas linguagens, frameworks e práticas de desenvolvimento.
+
+## Skills
+
+- **Linguagens:** Python, JavaScript, TypeScript, Java, Go
+- **Frameworks:** Node.js, React, Django, FastAPI
+- **DevOps:** Docker, CI/CD, GitHub Actions
+- **Extras:** APIs REST, testes automatizados, boas práticas de código
+
+## Projetos em destaque
+
+- [Nome do Projeto 1](https://github.com/ZXyoukai/NomeDoProjeto1): Breve descrição do projeto.
+- [Nome do Projeto 2](https://github.com/ZXyoukai/NomeDoProjeto2): Breve descrição do projeto.
+
+## Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [Twitter/X](https://twitter.com/seu-usuario)
+- Email: seu-email@dominio.com
+
+## Estatísticas
+
+![ZXyoukai GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZXyoukai&show_icons=true&theme=radical)
+
+---
+
+> “Sempre em busca de novos desafios e conhecimento.”
