@@ -26,7 +26,7 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 ### 🔥 **Projetos já finalizados:**
 
 <details>
-<summary>📘 <strong>Primeira Piscina</strong></summary>
+<summary>📘 <strong>Projetos Basicos</strong></summary>
 
 - **Libft** - Minha primeira biblioteca pessoal em C
 - **ft_printf** - Recriação da função printf
