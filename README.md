@@ -51,8 +51,7 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 
 - **minishell** - Criação de um shell funcional (bash simplificado)
 - **CPP Modules (00-04)** - Introdução ao C++ e programação orientada a objetos
-- **cub3d** ou **miniRT** - Ray-casting/Ray-tracing engine
-- **ft_containers** - Reimplementação dos containers da STL do C++
+- **cub3d** - Ray-casting engine
 - **inception** - Infraestrutura completa com Docker
 - **webserv** - Servidor HTTP completo em C++ (como nginx/apache)
 
@@ -60,7 +59,7 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 
 ### 📊 Progresso Atual
 ```
-Common Core Progress: ████████░░ 80% (Webserver completed!)
+Common Core Progress: ████████░░ 80% (inception completed!)
 ```
 
 ## 💻 Tech Stack & Skills
@@ -94,14 +93,11 @@ Common Core Progress: ████████░░ 80% (Webserver completed!)
 ![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
