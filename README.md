@@ -26,7 +26,7 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 ### 🔥 **Projetos já finalizados:**
 
 <details>
-<summary>📘 <strong>Projetos Basicos</strong></summary>
+<summary>📘 <strong>Projetos Iniciais</strong></summary>
 
 - **Libft** - Minha primeira biblioteca pessoal em C
 - **ft_printf** - Recriação da função printf
@@ -41,7 +41,6 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 - **push_swap** - Algoritmo de ordenação com pilhas
 - **minitalk** - Comunicação entre processos usando sinais UNIX
 - **so_long** - Jogo 2D simples usando MiniLibX
-- **pipex** - Simulação do pipe do shell
 - **philosophers** - Problema clássico dos filósofos (threading)
 
 </details>
@@ -50,7 +49,7 @@ Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiada
 <summary>🔧 <strong>Projetos Avançados</strong></summary>
 
 - **minishell** - Criação de um shell funcional (bash simplificado)
-- **CPP Modules (00-04)** - Introdução ao C++ e programação orientada a objetos
+- **CPP Modules (00-08)** - Introdução ao C++ e programação orientada a objetos
 - **cub3d** - Ray-casting engine
 - **inception** - Infraestrutura completa com Docker
 - **webserv** - Servidor HTTP completo em C++ (como nginx/apache)
