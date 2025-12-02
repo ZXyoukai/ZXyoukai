@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZXyoukai Haki on the keyboard, Boss level
+# ZXyoukai.(!exe)
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Developer;Fullstack+developer;Mobile+developer;Always+Learning!&color=00D9FF" />
 
 [![42 Profile](https://img.shields.io/badge/42_Luanda-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/yourusername)
