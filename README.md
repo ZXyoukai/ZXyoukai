@@ -9,21 +9,21 @@
 
 </div>
 
-## 🎯 Sobre mim
+## Sobre mim
 
 **Software Engineer** com sólida base em algoritmos e sistemas, desenvolvida na **42 Luanda**. Foco na criação de soluções escaláveis, eficientes e bem arquitetadas.
 
-- 💻 **Software Engineer** | Fullstack & Mobile Developer
-- 🌍 Localizado em **Luanda, Angola**
-- 🔥 Expertise em **C/C++**, **Python**, **Go** e **TypeScript**
-- 🏗️ Foco em **System Design**, **Microservices** e **Cloud Native**
-- 🚀 Apaixonado por **Clean Code**, **Performance** e **Inovação**
+- **Software Engineer** | Fullstack & Mobile Developer
+- Localizado em **Luanda, Angola**
+- Expertise em **C/C++**, **Python**, **Go** e **TypeScript**
+- Foco em **System Design**, **Microservices** e **Cloud Native**
+- Apaixonado por **Clean Code**, **Performance** e **Inovação**
 
-## 💡 Áreas de Especialização
+## Áreas de Especialização
 
 <div align="center">
 
-| 🏗️ Backend & Systems | 💻 Frontend & Mobile | ⚙️ DevOps & Tools |
+| Backend & Systems | Frontend & Mobile | DevOps & Tools |
 |:---:|:---:|:---:|
 | API Design (REST/GraphQL) | React.js & React Native | Docker & Containerization |
 | Database Modeling (SQL/NoSQL) | UI/UX Implementation | CI/CD Pipelines |
@@ -31,12 +31,12 @@
 
 </div>
 
-## 🚀 42 Common Core - Projetos Concluídos
+## 42 Common Core - Projetos Concluídos
 
-### 🔥 **Projetos já finalizados:**
+### **Projetos já finalizados:**
 
 <details>
-<summary>📘 <strong>Projetos Iniciais</strong></summary>
+<summary><strong>Projetos Iniciais</strong></summary>
 
 - **Libft** - Minha primeira biblioteca pessoal em C
 - **ft_printf** - Recriação da função printf
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary>🛠️ <strong>Projetos Intermediários</strong></summary>
+<summary><strong>Projetos Intermediários</strong></summary>
 
 - **push_swap** - Algoritmo de ordenação com pilhas
 - **minitalk** - Comunicação entre processos usando sinais UNIX
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary>🔧 <strong>Projetos Avançados</strong></summary>
+<summary><strong>Projetos Avançados</strong></summary>
 
 - **minishell** - Criação de um shell funcional (bash simplificado)
 - **CPP Modules (00-08)** - Introdução ao C++ e programação orientada a objetos
@@ -66,16 +66,16 @@
 
 </details>
 
-### 📊 Progresso Atual
+### Progresso Atual
 ```
 Common Core Progress: ████████░░ 80% (inception completed!)
 ```
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
-### 🌟 Linguagens
+### Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -86,7 +86,7 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🛠️ Ferramentas & Tecnologias
+### Ferramentas & Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -94,7 +94,7 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🌐 Web & Backend
+### Web & Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -104,14 +104,14 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZXyoukai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -126,14 +126,14 @@ Common Core Progress: ████████░░ 80% (inception completed!)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZXyoukai&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true">
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZXyoukai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
-## 🎯 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔥 Principais Repositórios
+### Principais Repositórios
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 
 </div>
 
-## 🤝 Vamos nos conectar!
+## Vamos nos conectar!
 
 <div align="center">
 
@@ -156,26 +156,26 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 
 </div>
 
-## 📚 Foco Atual de Desenvolvimento
+## Foco Atual de Desenvolvimento
 
-- 🌐 **Arquitetura de Microsserviços & Sistemas Distribuídos**
-- 🔧 **Segurança de Aplicações & Autenticação Moderna** (OAuth2, OIDC)
-- ☁️ **Cloud Computing & Serverless Architecture**
-- ⚡ **Engenharia de Performance & Otimização**
-- 📱 **Ecossistema Mobile Avançado**
+- **Arquitetura de Microsserviços & Sistemas Distribuídos**
+- **Segurança de Aplicações & Autenticação Moderna** (OAuth2, OIDC)
+- **Cloud Computing & Serverless Architecture**
+- **Engenharia de Performance & Otimização**
+- **Ecossistema Mobile Avançado**
 
-## 💭 Filosofia de Desenvolvimento
+## Filosofia de Desenvolvimento
 
 > *"Na 42Luanda, aprendemos que não há professores, apenas peer-to-peer learning. Cada problema é uma oportunidade de crescer, cada erro é um passo em direção à solução perfeita."*
 
 <div align="center">
 
-### 🌟 "Peer-to-peer learning at its finest!" 
+### "Peer-to-peer learning at its finest!" 
 
 [![Made with ❤️ by 42Luanda](https://img.shields.io/badge/Made%20with%20❤️%20by-42Luanda-000000?style=for-the-badge&logo=42)](https://42luanda.com)
 
 ---
 
-⭐️ From [ZXyoukai](https://github.com/ZXyoukai) | 🚀 Proudly studying at **42Luanda**
+From [ZXyoukai](https://github.com/ZXyoukai) | Proudly studying at **42Luanda**
 
 </div>
