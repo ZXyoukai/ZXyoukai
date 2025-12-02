@@ -11,14 +11,25 @@
 
 ## 🎯 Sobre mim
 
-Sou **estudante da 42Luanda**, uma das escolas de programação mais prestigiadas do mundo! 🚀 Apaixonado por tecnologia e sempre em busca de novos desafios e conhecimentos.
+**Software Engineer** com sólida base em algoritmos e sistemas, desenvolvida na **42 Luanda**. Foco na criação de soluções escaláveis, eficientes e bem arquitetadas.
 
-- 🏫 **42Luanda Student** - Cursando o Common Core
-- 💻 **Desenvolvedor** apaixonado por tecnologia e inovação  
+- 💻 **Software Engineer** | Fullstack & Mobile Developer
 - 🌍 Localizado em **Luanda, Angola**
-- 🔥 Interesse em **backend**, **automações**, **IA** e **sistemas distribuídos**
-- 🎯 Sempre buscando aprender novas **linguagens**, **frameworks** e **práticas de desenvolvimento**
-- 📚 Focado em **algoritmos**, **estruturas de dados** e **arquitetura de software**
+- 🔥 Expertise em **C/C++**, **Python**, **Go** e **TypeScript**
+- 🏗️ Foco em **System Design**, **Microservices** e **Cloud Native**
+- 🚀 Apaixonado por **Clean Code**, **Performance** e **Inovação**
+
+## 💡 Áreas de Especialização
+
+<div align="center">
+
+| 🏗️ Backend & Systems | 💻 Frontend & Mobile | ⚙️ DevOps & Tools |
+|:---:|:---:|:---:|
+| API Design (REST/GraphQL) | React.js & React Native | Docker & Containerization |
+| Database Modeling (SQL/NoSQL) | UI/UX Implementation | CI/CD Pipelines |
+| High Performance Computing (C/C++) | State Management | Git & Version Control |
+
+</div>
 
 ## 🚀 42 Common Core - Projetos Concluídos
 
@@ -145,13 +156,13 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 
 </div>
 
-## 📚 Atualmente estudando
+## 📚 Foco Atual de Desenvolvimento
 
-- 🌐 **Desenvolvimento Web Full-Stack**
-- 🔧 **Arquitetura de Microsserviços**
-- 🤖 **Inteligência Artificial e Machine Learning**  
-- ⚡ **Performance e Otimização de Código**
-- 🔒 **Cybersecurity e Ethical Hacking**
+- 🌐 **Arquitetura de Microsserviços & Sistemas Distribuídos**
+- 🔧 **Segurança de Aplicações & Autenticação Moderna** (OAuth2, OIDC)
+- ☁️ **Cloud Computing & Serverless Architecture**
+- ⚡ **Engenharia de Performance & Otimização**
+- 📱 **Ecossistema Mobile Avançado**
 
 ## 💭 Filosofia de Desenvolvimento
 
