@@ -115,35 +115,19 @@ Common Core Progress: ████████░░ 80% (inception completed!)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZXyoukai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZXyoukai&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZXyoukai&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZXyoukai&theme=tokyonight" alt="ZXyoukai" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZXyoukai&theme=tokyonight" alt="ZXyoukai" /> -->
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZXyoukai&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true">
 </div>
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZXyoukai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4">
-</div>
 
-## Projetos em Destaque
 
-### Principais Repositórios
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZXyoukai&repo=webserv&theme=tokyonight)](https://github.com/ZXyoukai/webserv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZXyoukai&repo=minishell&theme=tokyonight)](https://github.com/ZXyoukai/minishell)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZXyoukai&repo=inception&theme=tokyonight)](https://github.com/ZXyoukai/inception)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZXyoukai&repo=ft_containers&theme=tokyonight)](https://github.com/ZXyoukai/ft_containers)
-
-</div>
 
 ## Vamos nos conectar!
 
